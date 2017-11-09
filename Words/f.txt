@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 f Random Line FERVEX
+=======
+f Fast
+>>>>>>> realConflict
 fa
 faber
 fabian
