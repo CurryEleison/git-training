@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is git training test
 add more info here -  I'm doing this in old branch
+=======
+this is git training test
+>>>>>>> 42921a65b15a079b4173796723550b1f366e09f5
