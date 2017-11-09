@@ -37,6 +37,7 @@ quadric
 quadriceps
 quadricycle
 quadrifid
+quadrifold
 quadrifoliate
 quadrifoliolate
 quadrigeminal
